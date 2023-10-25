@@ -1,2 +1,2 @@
 # nikosvourtsanis.github.io
-#This the README file of my first github url
+#I am Nikos, a 2nd-year student in NKUA-Department of Informatics and Telecommunication
